@@ -24,3 +24,12 @@ img:hover {
 	transform: rotate(360deg); 
 	transition-duration:1s
 }
+
+.topnav a{
+	color: black;
+	position: absolute;
+	right: 5%;
+	margin: 50px;
+	font-size:18px;
+	text-decoration: none;
+}

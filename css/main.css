@@ -18,6 +18,9 @@ img {
 }
 
 img:hover {
+	height:100px; 
+	width:100px; 
+	margin:10px;
 	transform: rotate(360deg); 
 	transition-duration:1s
 }
